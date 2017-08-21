@@ -13,7 +13,7 @@
 - 간단한 프로세싱 프로젝트입니다. 사용을 원하시는 분은 프로젝트를 다운받은 후 바로 'sketch_Final2.pde'를 실행하면 됩니다.
 - 소스코드를 사용하실 때는 출처를 기재해주시면 감사하겠습니다.
 
-## Demo
+## Demo Video
 
 https://www.youtube.com/watch?v=ZroUWbX-GWg&feature=youtu.be
 
